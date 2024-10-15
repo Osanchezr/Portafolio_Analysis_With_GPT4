@@ -13,9 +13,12 @@ Este repositorio está diseñado para permitir a los usuarios analizar la rentab
 
 2. **Cálculo de Indicadores Financieros**:
    - Se calculan varios indicadores financieros, como:
-     - **Rentabilidad Anualizada**: Mide la ganancia o pérdida anual promedio de una inversión.
-     - **Volatilidad Anualizada**: Refleja el riesgo de una inversión, midiendo la variabilidad de los retornos.
-     - **Ratio de Sharpe**: Evalúa el rendimiento ajustado al riesgo, comparando el retorno de una inversión con su riesgo.
+     
+- **Rentabilidad Anualizada**: Muestra el retorno promedio anual de una inversión, proyectado a partir de los rendimientos diarios.
+- **Volatilidad Anualizada**: Mide el riesgo de la inversión a través de la fluctuación de los retornos. Una mayor volatilidad implica mayor riesgo.
+- **Ratio de Sharpe**: Indica el retorno ajustado al riesgo, comparando el rendimiento obtenido con la volatilidad asumida.
+- **Retorno Acumulado**: Refleja el crecimiento total de la inversión desde su inicio hasta el presente.
+- **Máximo Drawdown**: Calcula la mayor caída desde el punto más alto hasta el más bajo, evaluando la pérdida máxima.
 
 3. **Análisis Comparativo de Carteras**:
    - Se crean varias carteras de inversión y se calculan sus respectivos indicadores financieros. Esto permite realizar un análisis comparativo para identificar cuál cartera presenta un mejor rendimiento y menor riesgo.
