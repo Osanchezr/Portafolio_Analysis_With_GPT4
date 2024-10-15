@@ -42,7 +42,6 @@ Este repositorio está diseñado para permitir a los usuarios analizar la rentab
 
 ## Enlaces Útiles
 
-- [Google Colab](https://colab.research.google.com/) - Herramienta para ejecutar código Python en la nube.
 - [API de OpenAI](https://openai.com/api/) - Documentación de la API utilizada para el análisis automatizado.
 - [yfinance](https://pypi.org/project/yfinance/) - Documentación sobre la biblioteca para descargar datos financieros.
 
