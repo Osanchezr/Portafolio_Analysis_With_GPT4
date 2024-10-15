@@ -34,7 +34,7 @@ Este repositorio está diseñado para permitir a los usuarios analizar la rentab
 
 ## Participantes
 
-- [Oscar Paul Sanchez Rievros](https://www.linkedin.com/in/oscar-sanchez-riveros/)
+- [Oscar Paul Sanchez Riveros](https://www.linkedin.com/in/oscar-sanchez-riveros/)
 
 
 ## Enlaces Útiles
